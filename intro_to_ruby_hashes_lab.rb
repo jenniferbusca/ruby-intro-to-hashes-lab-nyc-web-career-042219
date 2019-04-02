@@ -8,7 +8,8 @@ end
 
 def monopoly
 	monopoly = {:pieces => 4,
-	:names => {}
+	:names => {},
+	:rent_in_dollars
 	  
 	}
 
